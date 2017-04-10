@@ -1,4 +1,4 @@
-# Just Another DAgger implementation
+# Just Another DAgger Implementation
 
 DAgger is a reinforcement learning (imitation learning, to be exact) algorithm that uses data aggregation techniques to address the states distribution mismatch problem. The detailed algorithm is described in the [paper](https://arxiv.org/abs/1011.0686).
 
