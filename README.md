@@ -7,4 +7,10 @@ This is my implementation of the DAgger. The code is based on the starter code a
 The following figure plots the mean reward by DAgger over the iterations. DAgger is able to achieve expert-level performance after a few data aggregation iterations.  
 ![](dagger_humanoid.png)
 
+# How to run the code
+Run the following command:
+``
+python run_dagger.py
+``
+
 (More coming soon...)
