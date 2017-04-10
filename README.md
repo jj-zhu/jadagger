@@ -4,6 +4,10 @@ DAgger is a reinforcement learning (imitation learning, to be exact) algorithm t
 
 This is my implementation of the DAgger. The code is based on the starter code and olicy function generously provided by the [Berkeley CS294 course](https://github.com/berkeleydeeprlcourse/homework).
 
+In the Humanoid experiment, the goal is to train the humanoid to walk fast forward without falling. Below is the humanoid trained using DAgger.  
+
+![]({{site.baseurl}}/humanoid.gif)
+
 The following figure plots the mean reward by DAgger over the iterations in the humanoid experiment. DAgger is able to achieve expert-level performance after a few data aggregation iterations.  
 ![](dagger_humanoid.png)
 
