@@ -6,7 +6,7 @@ This is my implementation of the DAgger. The code is based on the starter code a
 
 In the Humanoid experiment, the goal is to train the humanoid to walk fast forward without falling. Below is the humanoid trained using DAgger.  
 
-![]({{site.baseurl}}/humanoid.gif)
+![](humanoid.gif)
 
 The following figure plots the mean reward by DAgger over the iterations in the humanoid experiment. DAgger is able to achieve expert-level performance after a few data aggregation iterations.  
 ![](dagger_humanoid.png)
