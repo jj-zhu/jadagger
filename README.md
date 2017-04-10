@@ -4,7 +4,7 @@ DAgger is a reinforcement learning (imitation learning, to be exact) algorithm t
 
 This is my implementation of the DAgger. The code is based on the starter code and olicy function generously provided by the [Berkeley CS294 course](https://github.com/berkeleydeeprlcourse/homework).
 
-The imitation learning 
+DAgger is able to achieve expert-level performance after a few data aggregation process.
 
 
-(Coming soon...)
+(More coming soon...)
