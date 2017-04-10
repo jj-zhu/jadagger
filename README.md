@@ -2,7 +2,7 @@
 
 DAgger is a reinforcement learning (imitation learning, to be exact) algorithm that uses data aggregation techniques to address the states distribution mismatch problem. The detailed algorithm is described in the [paper](https://arxiv.org/abs/1011.0686).
 
-This is my implementation of the DAgger. The code is based on the starter code and olicy function generously provided by the [Berkeley CS294 course](https://github.com/berkeleydeeprlcourse/homework).
+This is my implementation of the DAgger. The code is based on the starter code and policy function generously provided by the [Berkeley CS294 course](https://github.com/berkeleydeeprlcourse/homework).
 
 In the Humanoid experiment, the goal is to train the humanoid to walk fast forward without falling. Below is the humanoid trained using DAgger.  
 
