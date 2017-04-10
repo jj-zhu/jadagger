@@ -24,3 +24,6 @@ python run_dagger.py
 - [Mujoco](https://www.roboti.us/index.html) (1.31)
 
 (More coming soon...)
+
+# Author
+J.J. Zhu
