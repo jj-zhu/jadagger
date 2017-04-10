@@ -19,9 +19,9 @@ python run_dagger.py
 
 # Dependencies
 - Python  
-- [TensorFlow](https://www.tensorflow.org/install/) (tested on 1.0.1)  
+- [TensorFlow](https://www.tensorflow.org/install/) (1.0.1)  
 - [OpenAI Gym](https://github.com/openai/gym)  
-- [Mujoco](https://www.roboti.us/index.html) (1.31)
+- [MuJoCo](https://www.roboti.us/index.html) (1.31)
 
 (More coming soon...)
 
